@@ -1,0 +1,8 @@
+CLAUDE.md
+.env
+venv/
+pycache/
+*.pyc
+*.db
+instance/
+
